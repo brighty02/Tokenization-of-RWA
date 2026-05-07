@@ -11,7 +11,6 @@ The paper focuses on the migration of core financial primitives onto programmabl
 	•	On-chain money market instruments
 	•	Institutional settlement infrastructure
 
-⸻
 
 ## Core Thesis
 
@@ -26,7 +25,6 @@ As traditional financial systems face growing inefficiencies from fragmented led
 
 This paper argues that tokenization represents an infrastructural evolution of capital markets rather than a replacement of traditional finance.
 
-⸻
 
 ## Key Areas Explored
 
@@ -58,7 +56,6 @@ This paper argues that tokenization represents an infrastructural evolution of c
 	•	Smart contract and oracle dependencies
 	•	Transparency vs institutional confidentiality requirements
 
-⸻
 
 ## Research Objectives
 
@@ -69,7 +66,6 @@ This research aims to:
 	4.	Explore the systemic risks and constraints associated with on-chain finance
 	5.	Model the long-term evolution of blockchain-based financial systems
 
-⸻
 
 ## Why This Research Matters
 
@@ -83,7 +79,6 @@ As capital markets progressively integrate blockchain infrastructure, the distin
 
 will become critical for researchers, builders, and market participants operating within the next generation of financial systems.
 
-⸻
 
 ### Author
 
@@ -96,7 +91,6 @@ Areas of focus:
 	•	Tokenization infrastructure
 	•	Capital efficiency & liquidity dynamics
 
-⸻
 
 ### Disclaimer
 
